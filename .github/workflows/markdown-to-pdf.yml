@@ -12,7 +12,7 @@ jobs:
       - name: Install md-to-pdf
         run: npm i -g md-to-pdf
       - name: Convert MD to PDF
-        run: md-to-pdf resume.pdf
+        run: md-to-pdf resume.md
       - name: Upload PDF
         uses: actions/upload-artifact@v2
         with:
