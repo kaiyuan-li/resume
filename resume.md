@@ -17,8 +17,8 @@ Kai has been working in the software industry since 2016. Their experience inclu
 
 * PhD in Engineering
 * Numerical modelling for Highly Nonlinear Solitary Waves
-* Build a PiezoElectric energy harvesting system
-* Invented a new Acoustic Diode
+* Build a PiezoElectric energy harvesting system ([link](https://aip.scitation.org/doi/abs/10.1063/1.4921856))
+* Invented a new Acoustic Diode ([link](https://www.sciencedirect.com/science/article/abs/pii/S0022460X15009293))
 
 ## Industrial Experience
 
@@ -39,7 +39,7 @@ Kai has been working in the software industry since 2016. Their experience inclu
 
 ### MathWorks (2016 ~ 2018)
 
-* Software engineer for App Designer, a Web GUI to build GUIs.
+* Software engineer for App Designer, a Web GUI to build Web GUIs.
 * Build a Chrome memory testing tool to profile memory consumption.
 * Build a Chrome performance testing tool to profile Web GUI speed.
 
@@ -47,5 +47,6 @@ Kai has been working in the software industry since 2016. Their experience inclu
 
 Kai is language agnostic, with industrial exposure to:
 * System: GoLang, Rust, C++, Python, Java, etc.
-* UI: React, Vue, Flow, TypeScript, etc.
+* Web: React, Vue, Flow, TypeScript, etc.
+
 But they are always excited to explore new languages.
