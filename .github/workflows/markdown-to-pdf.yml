@@ -1,0 +1,20 @@
+name: MD to PDF
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install md-to-pdf
+        run: npm i -g md-to-pdf
+      - name: Convert MD to PDF
+        run: md-to-pdf resume.pdf
+      - name: Upload PDF
+        uses: actions/upload-artifact@v2
+        with:
+          name: upload
+          path: resume.pdf
