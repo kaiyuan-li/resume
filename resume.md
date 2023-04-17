@@ -46,7 +46,7 @@ Kai has been working in the software industry since 2016. Their experience inclu
 ## Programming Languages
 
 Kai is language agnostic, with industrial exposure to:
-* System: GoLang, Rust, C++, Python, Java, etc.
+* System: GoLang, Rust, C++, Python, Java, Hack/PHP, etc.
 * Web: React, Vue, Flow, TypeScript, etc.
 
 But they are always excited to explore new languages.
