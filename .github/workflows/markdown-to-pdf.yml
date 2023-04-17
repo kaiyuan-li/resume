@@ -16,5 +16,5 @@ jobs:
       - name: Upload PDF
         uses: actions/upload-artifact@v2
         with:
-          name: upload
+          name: KaiyuanLi-Resume
           path: resume.pdf
