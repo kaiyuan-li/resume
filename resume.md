@@ -17,6 +17,7 @@ Kai has been working in the software industry since 2016. Their experience inclu
 
 * PhD in Engineering
 * Numerical modelling for Highly Nonlinear Solitary Waves
+  * Built a Finite Element software with >10k LoC in Java.
 * Built a PiezoElectric energy harvesting system ([link](https://aip.scitation.org/doi/abs/10.1063/1.4921856))
 * Invented a new Acoustic Diode ([link](https://www.sciencedirect.com/science/article/abs/pii/S0022460X15009293))
 
